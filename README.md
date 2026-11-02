@@ -1,4 +1,4 @@
-﻿# Flappy Bird
+# Flappy Bird
 
 YMH219 Nesne Tabanlı Programlama ek uygulama ödevi. C# ile geliştirilen Windows Forms masaüstü uygulaması.
 
@@ -24,8 +24,8 @@ Kuş, engel ve oyun durumu Bird, Pipe ve Game sınıflarında tutulur. Skor otur
 Arayüz MainForm, başlangıç Program, ortak görsel yardımcılar Ui sınıfındadır. Formların Dispose metotları kullanılan kaynakları temizler.
 
 ## Öğrenci bilgileri
-- Ad soyad: **Doldurulacak**
-- Öğrenci numarası: **Doldurulacak**
+- Ad soyad: **Talha Nuri Önder**
+- Öğrenci numarası: **210541054**
 
 ## GitHub teslimi
 Bu klasörü `YMH219-FlappyBird` adlı ayrı bir **public** depoya yükleyin. `bin`, `obj`, `.vs` ve yerel kişisel veri klasörleri .gitignore kapsamındadır. Öğrenci bilgilerini tamamlayın. Kendi yaptığınız değişiklikleri anlamlı commitlerle kaydedin; geçmiş tarihe ait geliştirme geçmişi üretilmemiştir. Classroom'a GitHub profil bağlantınızı teslim edin. Son tarih: **30 Kasım 2026 23:59**.
